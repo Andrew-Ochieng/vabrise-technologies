@@ -13,7 +13,7 @@ function showMenu() {
 function hideMenu() {
     menu.classList.toggle("hidden") 
     times.style.display = "none"
-    hambuger.classList = "flex"
+    hambuger.style.display = "flex"
 } 
 
 
